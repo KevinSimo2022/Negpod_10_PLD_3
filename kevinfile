@@ -15,8 +15,8 @@
 
 				<!-- Intro -->
 					<div id="intro">
-						<h1>This is<br />
-						NEGOPD_1O</h1>
+						<h1>Here's the display!<br />
+						Make your choice!</h1>
 						
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
@@ -50,16 +50,16 @@
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<span class="date">April 25, 2017</span>
-									<h2><a href="#">And this is a<br />
-									massive headline</a></h2>
-									<p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />
-									facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />
-									amet nullam sed etiam veroeros.</p>
+									<span class="date">	Display</span>
+									<h2><a href="#">Look through<br />
+									and make your choice!</a></h2>
+									<p>This website is to aid you with your house search.<br />
+									We will connect you with the right house owners. <br />
+									Here, we safeguard your confidential information.</p> <br> You're in SAFE hands!</br>
 								</header>
-								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
+								<a href="#" class="image main"><img src="images/image6.jpg" alt="" /></a>
 								<ul class="actions special">
-									<li><a href="#" class="button large">Full Story</a></li>
+									
 								</ul>
 							</article>
 
@@ -71,10 +71,10 @@
 										<h2><a href="#">Sed magna<br />
 										ipsum faucibus</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic02.png" alt="" /></a>
-									<p>This house is located in kibagabaga 5 bedrooms with 5 bathrooms . at a price of 1000$.</p>
+									<a href="#" class="image fit"><img src="images/image1.jpg" alt="" /></a>
+									<p>This is a house in Kimironko at a price of 500$ fully vernished with 2 custom rooms and one master bedroom , two bathrooms and a kitchen inside </p>
 									<ul class="actions special">
-										<li><a href="#" class="button">Full Story</a></li>
+										
 									</ul>
 								</article>
 								<article>
@@ -83,10 +83,10 @@
 										<h2><a href="#">Primis eget<br />
 										imperdiet lorem</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
-									<p>this house is located at Kanombe 4 bedrooms . at a price of 500$.</p>
+									<a href="#" class="image fit"><img src="images/image2.jpg" alt="" /></a>
+									<p>This is a house in Kibagabaga at a price of 700$ fully vernished with 4 custom rooms and 2 master bedroom , 3 bathrooms and a kitchen inside</p>
 									<ul class="actions special">
-										<li><a href="#" class="button">Full Story</a></li>
+
 									</ul>
 								</article>
 								<article>
@@ -95,10 +95,10 @@
 										<h2><a href="#">Ante mattis<br />
 										interdum dolor</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
-									<p>this house is located at Kacyiru , 3 bed rooms . at a price of 700$.</p>
+									<a href="#" class="image fit"><img src="images/image3.jpg" alt="" /></a>
+									<p>This is a house in Kanombe at a price of 400$ fully vernished with 4 custom roomsbedroom , two bathrooms and a kitchen inside</p>
 									<ul class="actions special">
-										<li><a href="#" class="button">Full Story</a></li>
+										
 									</ul>
 								</article>
 								<article>
@@ -107,10 +107,10 @@
 										<h2><a href="#">Tempus sed<br />
 										nulla imperdiet</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-									<p>this house is located at Rusororo 7 bed rooms  with a swimming pool. at a price of 1500$</p>
+									<a href="#" class="image fit"><img src="images/image4.jpg" alt="" /></a>
+									<p>This is a house in Kagarama/kicukiro at a price of 500$ fully vernished with 3custom rooms and one master bedroom , 3 bathrooms and a kitchen </p>
 									<ul class="actions special">
-										<li><a href="#" class="button">Full Story</a></li>
+										
 									</ul>
 								</article>
 								<article>
@@ -119,10 +119,10 @@
 										<h2><a href="#">Odio magna<br />
 										sed consectetur</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
-									<p>this house is located at Kabeza 4 bed rooms . at a price of 400$</p>
+									<a href="#" class="image fit"><img src="images/image5.jpg" alt="" /></a>
+									<p>This is a house in Kacyiru at a price of 750$ fully vernished with 5 custom rooms and one master bedroom , 4 bathrooms and a kitchen </p>
 									<ul class="actions special">
-										<li><a href="#" class="button">Full Story</a></li>
+										
 									</ul>
 								</article>
 								<article>
@@ -131,10 +131,10 @@
 										<h2><a href="#">Augue lorem<br />
 										primis vestibulum</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
-									<p>this house is located at kagarama one living room and 6 bedrooms . at a price of 550$.</p>
+									<a href="#" class="image fit"><img src="images/image7.jpg" alt="" /></a>
+									<p>This is a house in Kimironko at a price of 600$ fully vernished with 3custom rooms and one master bedroom , two bathrooms and a kitchen </p>
 									<ul class="actions special">
-										<li><a href="#" class="button">Full Story</a></li>
+										
 									</ul>
 								</article>
 							</section>
@@ -144,13 +144,6 @@
 								<div class="pagination">
 									<!--<a href="#" class="previous">Prev</a>-->
 									<a href="#" class="page active">1</a>
-									<a href="#" class="page">2</a>
-									<a href="#" class="page">3</a>
-									<span class="extra">&hellip;</span>
-									<a href="#" class="page">8</a>
-									<a href="#" class="page">9</a>
-									<a href="#" class="page">10</a>
-									<a href="#" class="next">Next</a>
 								</div>
 							</footer>
 
@@ -218,3 +211,4 @@
 
 	</body>
 </html>
+
